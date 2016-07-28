@@ -1,1 +1,2 @@
-# madhouze
+# Madhouz.
+Store based on Woocommerce
